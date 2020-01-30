@@ -214,7 +214,7 @@
   </prerequisites>
 	  <distributionManagement> 
 		<snapshotRepository>
-		<id>maven_snapshot</id>
+		<id>trail</id>
 		<name>Internal Releases</name>
 		<url>http://35.238.168.136:8081/repository/trail/</url>
 	</snapshotRepository>
